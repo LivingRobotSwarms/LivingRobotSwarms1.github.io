@@ -2,7 +2,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-**Living Robot Swarms**
+### Living Robot Swarms
 
 Blackiston, D.\*, Leder E.\*, Kriegman, S., Garnier, S., Bongard, J., Levin, M. (in press) <br>
 "[A Cellular Platform for the Development of Synthetic Living Machines](https://robotics.sciencemag.org)", <br>
@@ -13,10 +13,10 @@ _Science Robotics_, vol. ?? no. ??, pp. ??-??.  <br>
 
 
 
-[**Computer Designed Organisms**](https://cdorgs.github.io)
+### [Computer Designed Organisms](https://cdorgs.github.io)
 
-Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2020) 
-"[A scalable pipeline for designing reconfigurable organisms](https://www.pnas.org/content/117/4/1853)", 
+Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2020)  <br>
+"[A scalable pipeline for designing reconfigurable organisms](https://www.pnas.org/content/117/4/1853)",  <br>
 _Proceedings of the National Academy of Sciences (PNAS)_, vol. 117 no. 4, pp. 1853-1859.  <br>
 \*Co-first authors.
 <br>
