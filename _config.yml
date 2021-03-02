@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: CDOs
-description: Computer-Designed Organisms
+title: LRSwarms
+description: Living Robot Swarms
 plugins:
   - jekyll-relative-links
 relative_links:
