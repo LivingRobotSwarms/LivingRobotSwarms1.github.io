@@ -12,8 +12,8 @@ docs:
 - pagetitle: Images
   url: /images
   
-- pagetitle: Paper
-  url: /paper 
+- pagetitle: Papers
+  url: /papers
   
 - pagetitle: Code
   url: /code
