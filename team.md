@@ -6,6 +6,11 @@
 **Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
+<img src="https://cdorgs.github.io/img/icon.png" width="25%">
+
+**Emma Lederer** is ...
+<br><br><br>
+
 
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
@@ -18,6 +23,12 @@ and designing the form of functional systems that have limited neural control or
 Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
 has co-authored 18 peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
 and co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/).
+<br><br><br>
+
+
+<img src="https://cdorgs.github.io/img/icon.png" width="25%">
+
+**Simon Garnier** is ...
 <br><br><br>
 
 
