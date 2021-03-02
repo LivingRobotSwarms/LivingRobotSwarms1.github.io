@@ -1,8 +1,7 @@
 ## Code
 
-### Reproduce our work.
 
-The source code and build instructions are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
+The source code and building instructions for Living Robot Swarms are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 <br>
 
 The software has two parts:
