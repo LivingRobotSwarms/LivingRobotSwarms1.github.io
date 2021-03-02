@@ -1,6 +1,6 @@
 ## Videos
 
-The videos of Living Robot Swarms can be [downloaded here](https://drive.google.com).
+Videos of Living Robot Swarms can be [downloaded here](https://drive.google.com).
 All videos are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
 <br>
 
