@@ -4,7 +4,10 @@
 The source code and building instructions for Living Robot Swarms are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 <br>
 
-The software has two parts:
+We recommend starting with this [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
+<br>
+
+Our new GPU software, which was forked from CPU VoxCAD, has two parts:
 <br>
 
 <a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
