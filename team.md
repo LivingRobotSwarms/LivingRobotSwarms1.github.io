@@ -9,7 +9,6 @@
 <img src="https://livingrobotswarms.github.io/img/emma.jpg" width="25%">
 
 **Emma Lederer** is a Research Assistant in the Allen Discovery Center at Tufts University. She uses her background in fluid mechanics and developmental biology to investigate interactions between organisms and their environment both at an individual and community level.
-
 <br><br><br>
 
 
