@@ -7,6 +7,8 @@ The source code and building instructions for Living Robot Swarms are distribute
 ### **Start here:**
 
 We recommend starting with this [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
+The tutorial assumes Windows OS.
+If you do not have Windows, you can download the GUI for [Mac](https://livingrobotswarms.github.io/code#mac) and [Linux](https://livingrobotswarms.github.io/code#linux).
 
 
 ### **A new GPU simulator:**
