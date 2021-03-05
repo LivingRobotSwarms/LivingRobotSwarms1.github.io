@@ -6,9 +6,10 @@
 **Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
-<img src="https://cdorgs.github.io/img/icon.png" width="25%">
+<img src="https://livingrobotswarms.github.io/img/emma.jpg" width="25%">
 
-**Emma Lederer** is ...
+**Emma Lederer** is a Research Assistant in the Allen Discovery Center at Tufts University. She uses her background in fluid mechanics and developmental biology to investigate interactions between organisms and their environment both at an individual and community level.
+
 <br><br><br>
 
 
