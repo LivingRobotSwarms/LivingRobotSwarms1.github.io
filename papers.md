@@ -4,8 +4,8 @@
 ### 2. Living Robot Swarms
 
 Blackiston, D.\*, Leder E.\*, Kriegman, S., Garnier, S., Bongard, J., Levin, M. (in press) <br>
-"[A Cellular Platform for the Development of Synthetic Living Machines](https://robotics.sciencemag.org)", <br>
-_Science Robotics_, vol. ?? no. ??, pp. ??-??.  <br>
+"[A Cellular Platform for the Development of Synthetic Living Machines]()", <br>
+_??_, vol. ?? no. ??, pp. ??-??.  <br>
 \*Co-first authors.
 <br>
 
