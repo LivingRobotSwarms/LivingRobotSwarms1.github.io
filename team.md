@@ -22,7 +22,7 @@ and co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github
 <br><br><br>
 
 
-<img src="https://cdorgs.github.io/img/simon.png" width="25%">
+<img src="https://livingrobotswarms.github.io/img/simon.png" width="25%">
 
 **Simon Garnier** is is an Associate Professor of Biology at the New Jersey Institute of Technology. He is the head of the Swarm Lab, an interdisciplinary research lab that studies the mechanisms underlying Collective Behaviors and Swarm Intelligence in natural and artificial systems. His research aims to reveal the detailed functioning of collective intelligence in systems as diverse as ant colonies, human crowds or robotic swarms. Dr. Garnier's work is or has been supported by multiple grants from DARPA, NSF, and the James S. McDonnell Foundation. His twitter handle is @sjmgarnier.
 <br><br><br>
