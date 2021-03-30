@@ -4,6 +4,11 @@
 The source code and building instructions for Living Robot Swarms are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 <br>
 
+The data analysis from the paper can be found in this [R notebook](https://github.com/swarm-lab/xenobots/blob/1.0/final.Rmd). 
+<br>
+
+The remainder of this page is about how to simulate living robot swarms in a physics-based virtual environment.
+
 ### **Start here:**
 
 We recommend starting with this [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
