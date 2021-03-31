@@ -1,22 +1,21 @@
 ## About
 
-![image](https://LivingRobotSwarms.github.io/img/livingrobotswarm.gif)
-Swarms can do things that no single individual can do alone. Robot swarms have, to date, been constructed from plastics, metals, and other artificial materials. Robots built from living materials instead of artificial ones (for example, using [**heart muscle**](https://cdorgs.github.io/)) could offer numerous solutions to current challenges in robotics - such as the ability to biodegrade, a rich biochemistry for sensing and processing molecules, and the ability to self repair when injured. Here, we report living robot swarms, constructed entirely from amphibian skin cells. These self-powered living robots use tiny hairs (called cilia) on their bodies to rapidly swim through their environment, can be modified to record experience, and can work in groups to collect small objects in their vicinity. This new platform provides a faster way to manufacture large numbers of living robots, which can be used to study aspects of self-assembly, swarm behavior, and synthetic bioengineering, as well as provide versatile, soft-body living machines with practical applications in biomedicine and the environment.
-<br>
+![image](https://LivingRobotSwarms.github.io/img/livingrobotswarm.gif) <br>
+**Swarms** can do things that no single individual can do alone. Robot swarms have, to date, been constructed from plastics, metals, and other artificial materials. Robots built from living materials instead of artificial ones (for example, using [**heart muscle**](https://cdorgs.github.io/)) could offer numerous solutions to current challenges in robotics - such as the ability to biodegrade, a rich biochemistry for sensing and processing molecules, and the ability to self repair when injured. Here, we report living robot swarms, constructed entirely from amphibian skin cells. These self-powered living robots use tiny hairs (called cilia) on their bodies to rapidly swim through their environment, can be modified to record experience, and can work in groups to collect small objects in their vicinity. This new platform provides a faster way to manufacture large numbers of living robots, which can be used to study aspects of self-assembly, swarm behavior, and synthetic bioengineering, as well as provide versatile, soft-body living machines with practical applications in biomedicine and the environment.
+<br><br>
 
-<img src="https://LivingRobotSwarms.github.io/img/ciliabot.jpg" width="50%">
+<img src="https://LivingRobotSwarms.github.io/img/ciliabot.jpg" width="50%"> <br>
 **Cilia-driven swimming.** Each individual living robot develops into a sphere, covered in cilia: thousands of waving hairs (glowing orange in the above image) that act as tiny oars to propel them through their aqueous environment.
-<br>
+<br><br>
 
-<img src="https://LivingRobotSwarms.github.io/img/eofsp2.jpg" width="50%">
+<img src="https://LivingRobotSwarms.github.io/img/eofsp2.jpg" width="50%"> <br>
 **Go, see, remember, report back.** An RNA molecule was introduced to the living robots to give them molecular memory: if exposed to blue light while swimming through their dish, they will glow red (when viewed under a fluorescent microscope) otherwise they glow green, indicating that they did not “see” the blue light.
-<br>
+<br><br>
 
-## How they're made and what they can do
+## How they're made and what they can do:
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dG4jB_LfQ5Y" frameborder="0" allowfullscreen></iframe>
-A one and a half minute summary of construction and behavior. <br>
-Download with text overlay [here](https://drive.google.com/file/d/1KrVKsysCs-OE1f0HI5l9gvVJlhxymO_c/view) <br>
-Download **without text** overlay [here](https://drive.google.com/file/d/1MqkjfNsskjijEuX3D0sK0i0m0-4JGOxw/view) <br>
+A 1.5 minute summary video which can be downloaded [here](https://drive.google.com/file/d/1KrVKsysCs-OE1f0HI5l9gvVJlhxymO_c/view) and
+**without text** overlay [here](https://drive.google.com/file/d/1MqkjfNsskjijEuX3D0sK0i0m0-4JGOxw/view). <br>
 Video credit: Douglas Blackiston.
 <br><br>
 
