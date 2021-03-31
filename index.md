@@ -14,8 +14,7 @@
 
 ## How they're made and what they can do:
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dG4jB_LfQ5Y" frameborder="0" allowfullscreen></iframe>
-A 1.5 minute summary video which can be downloaded [here](https://drive.google.com/file/d/1KrVKsysCs-OE1f0HI5l9gvVJlhxymO_c/view) and
-**without text** overlay [here](https://drive.google.com/file/d/1MqkjfNsskjijEuX3D0sK0i0m0-4JGOxw/view). <br>
+A 1.5 minute summary video which can be downloaded [with text overlay](https://drive.google.com/file/d/1KrVKsysCs-OE1f0HI5l9gvVJlhxymO_c/view) or [**without text**](https://drive.google.com/file/d/1MqkjfNsskjijEuX3D0sK0i0m0-4JGOxw/view). <br>
 Video credit: Douglas Blackiston.
 <br><br>
 
