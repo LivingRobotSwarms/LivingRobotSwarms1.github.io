@@ -82,7 +82,6 @@ A swarm of five simulated living robots (green) swim among simulated particulate
 [gif](https://drive.google.com/file/d/1Je6K6qC_wkXzdN184Ow8itFFtwybuBJP/view) |
 [youtube](https://youtu.be/rw1tbDEvNQk) | 
 [download](https://drive.google.com/file/d/1S0uVBXVl8l_x_g5jFXEt4SlfEW76sdL5/view)
-Title: 
 <br><br>
 
 ![image](https://LivingRobotSwarms.github.io/img/evolvedCiliaForces2.gif) <br>
@@ -90,7 +89,6 @@ Another swarm swims in simulation with different cilia forces. <br>
 [gif](https://drive.google.com/file/d/1RjtBLM6I7y-0v9RlZgorGqUb_WdcEnhQ/view) |
 [youtube](https://youtu.be/_4ssMtbPDw4) |
 [download](https://drive.google.com/file/d/1Sp7Q7DSePbxB8AgBlSfNWN4w4mQrYWni/view)
-Title: 
 <br><br>
 
 ![image](https://LivingRobotSwarms.github.io/img/evolvedShapeAndCiliaForces.gif) <br>
@@ -98,6 +96,5 @@ The bodies of the five simulated living robots were shaped to enhance particle a
 [gif](https://drive.google.com/file/d/1rWoykhaleNv3VO7rGBjTHvSB9pj78hBz/view) |
 [youtube](https://youtu.be/4_zLBJcqaqU) |
 [download](https://drive.google.com/file/d/1iD97LN60MCb-J2Y5VX2dvUDlFOz_Hpy_/view)
-Title: 
 
 
