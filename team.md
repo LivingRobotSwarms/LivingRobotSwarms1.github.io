@@ -16,9 +16,10 @@
 
 **Sam Kriegman** is a Postdoctoral Associate at the University of Vermont. 
 His research explores evolutionary robotics: the automatic creation of novel robots and biological machines that are capable of safely performing useful work.
-Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/), 
-has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ), 
-and co-manages the open-source soft robot kit [voxcraft](https://voxcraft.github.io/).
+Sam 
+co-created the world’s first computer designed organisms, [xenobots](https://cdorgs.github.io/), and the open-source soft robot kit, [voxcraft](https://voxcraft.github.io/);
+co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/); 
+and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ).
 <br><br><br>
 
 
