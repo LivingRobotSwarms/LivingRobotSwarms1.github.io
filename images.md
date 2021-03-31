@@ -15,7 +15,7 @@ A group of living robots 24 hours after construction.  They naturally form into 
 A group of living robots 48 hours after construction.  They naturally form into spheres in saline solutions, and their surface becomes more irregular as they develop.
 <br><br>
 
-![image](https://LivingRobotSwarms.github.io/img/xxx) <br>
+![image](https://LivingRobotSwarms.github.io/img/eosfpbw.jpg) <br>
 High magnification image of living robots.
 <br><br>
 
