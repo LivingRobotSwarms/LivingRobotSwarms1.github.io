@@ -21,7 +21,7 @@ Video credit: Douglas Blackiston.
 ## FAQ
 
 ### What's new here?
-[**The first xenobots**](https://cdorgs.github.io/) paper was, at heart, a proof of principle that living robots exist, and that AI can design them to do simple things. This second paper shows new steps we've taken towards making these useful tools.
+[**The first xenobots**](https://cdorgs.github.io/) paper was, at heart, a proof of principle that living robots exist, and that AI can design them to do simple things. This second paper investigates additional features and capabilities that could be incorporated into future living robots so that they may one day become useful machines.
 <br>
 
 ### Why robot swarms?
