@@ -41,6 +41,24 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 ## The Acedemic Times
 [These self-healing ‘living robots’ could one day clean waterways and detect disease](https://academictimes.com/these-self-healing-living-robots-could-one-day-clean-waterways-and-detect-disease/)
 
+## Times of India
+[Scientists Create 'Living' Robots That Think And Have Memories With Frog Cells](https://www.indiatimes.com/technology/science-and-future/scientists-create-living-robots-that-have-memories-with-frog-cells-537518.html)
+
 ## ...
+
+# International Coverage:
+
+## La Razón (Spain)
+[Robots celulares que se regeneran a sí mismos: Biobots 2.0](https://www.larazon.es/ciencia/20210404/3pc5uqnf2fajzbzcac7dre4ewm.html)
+
+## Le blob, l’extra-média (France)
+[Xénobots : machines vivantes à notre service ?](https://leblob.fr/videos/xenobots-machines-vivantes-notre-service)
+
+## CNN Greece
+[Xenobot 2.0: Αμερικανοί ερευνητές δημιούργησαν την επόμενη πιο εξελιγμένη γενιά ζωντανών ρομπότ](https://www.cnn.gr/tech/story/260561/xenobot-2-0-amerikanoi-ereynites-dimioyrgisan-tin-epomeni-pio-exeligmeni-genia-zontanon-rompot)
+
+## Skai (Greece)
+[enobot 2.0: Η πιο εξελιγμένη γενιά «ζωντανών ρομπότ» που δημιούργησαν ερευνητές](https://www.skai.gr/news/technology/xenobot-20-i-pio-ekseligmeni-genia-zontanon-rompot-pou-dimiourgisan-ereynites)
+
 
 
