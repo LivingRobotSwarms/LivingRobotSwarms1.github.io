@@ -44,6 +44,12 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 ## Times of India
 [Scientists Create 'Living' Robots That Think And Have Memories With Frog Cells](https://www.indiatimes.com/technology/science-and-future/scientists-create-living-robots-that-have-memories-with-frog-cells-537518.html)
 
+## Inverse
+[Self-healing "xenobots" mean a future with living machines](https://www.inverse.com/innovation/xenobots-are-living-machines)
+
+## Wild Information
+["But then people argue, what's life?"](https://clairelevans.substack.com/p/whatslife)
+
 ## ...
 
 # **International Coverage:**
