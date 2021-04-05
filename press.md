@@ -46,7 +46,10 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 
 ## ...
 
-# International Coverage:
+# **International Coverage:**
+
+## Spektrum der Wissenschaft (Germany)
+[Roboterartige Kugeln aus Froschzellen gezüchtet](https://www.spektrum.de/news/xenobots-roboterartige-kugeln-aus-froschzellen-gezuechtet/1854868)
 
 ## La Razón (Spain)
 [Robots celulares que se regeneran a sí mismos: Biobots 2.0](https://www.larazon.es/ciencia/20210404/3pc5uqnf2fajzbzcac7dre4ewm.html)
