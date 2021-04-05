@@ -30,6 +30,17 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 [Science & Tech Daily](https://www.standard.co.uk/tech/want-to-visit-space-esa-astronaut-tells-us-what-it-ll-take-b927513.html)
 
 ## Daily Mail
-[Microscopic 'living robots' created from frog embryo stem cells have memories and could be used to clean up microplastics or detect diseases](https://www.dailymail.co.uk/sciencetech/article-9424159/Microscopic-living-robots-created-frog-embryo-stem-cells-memories.html)
+[Microscopic 'living robots' created from frog embryo stem cells](https://www.dailymail.co.uk/sciencetech/article-9424159/Microscopic-living-robots-created-frog-embryo-stem-cells-memories.html)
+
+## Interesting Engineering
+[There's a New Artificial Life Form on Our Planet](https://interestingengineering.com/new-artificial-life-form-xenobot-swarm)
+
+## TheNextWeb
+[Scientists have created living robots that can self-heal and record memories](https://thenextweb.com/neural/2021/04/01/living-robots-created-stem-cells-frogs-self-heal-record-memories-xenobots/)
+
+## The Acedemic Times
+[These self-healing ‘living robots’ could one day clean waterways and detect disease](https://academictimes.com/these-self-healing-living-robots-could-one-day-clean-waterways-and-detect-disease/)
 
 ## ...
+
+
