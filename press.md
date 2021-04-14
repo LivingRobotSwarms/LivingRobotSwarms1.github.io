@@ -58,7 +58,12 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 ## Wild Information
 ["But then people argue, what's life?"](https://clairelevans.substack.com/p/whatslife)
 
+## WCAX-TV (CBS 3)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/C8Yob1JyfE4" frameborder="0" allowfullscreen></iframe>
+
+
 ## ...
+
 
 # **International Coverage:**
 
@@ -79,6 +84,8 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 
 ## Skai (Greece)
 [enobot 2.0: Η πιο εξελιγμένη γενιά «ζωντανών ρομπότ» που δημιούργησαν ερευνητές](https://www.skai.gr/news/technology/xenobot-20-i-pio-ekseligmeni-genia-zontanon-rompot-pou-dimiourgisan-ereynites)
+
+## ...
 
 
 
