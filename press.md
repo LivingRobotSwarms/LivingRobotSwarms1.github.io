@@ -76,6 +76,9 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 ## La Razón (Spain)
 [Robots celulares que se regeneran a sí mismos: Biobots 2.0](https://www.larazon.es/ciencia/20210404/3pc5uqnf2fajzbzcac7dre4ewm.html)
 
+## Telemadrid (Spain)
+[Xenobots, un paso adelante en la vida artificial](https://www.telemadrid.es/programas/madrid-directo-om/Xenobots-paso-adelante-vida-artificial-9-2332056801--20210414070000.html)
+
 ## Le blob, l’extra-média (France)
 [Xénobots : machines vivantes à notre service ?](https://leblob.fr/videos/xenobots-machines-vivantes-notre-service)
 
