@@ -70,20 +70,18 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 
 # **International Coverage:**
 
+
+## ΕΡΤ (Greece)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9ba3GZMipDc" frameborder="0" allowfullscreen></iframe>
+
+## Le blob, l’extra-média (France)
+[Xénobots : machines vivantes à notre service ?](https://leblob.fr/videos/xenobots-machines-vivantes-notre-service)
+
 ## Spektrum der Wissenschaft (Germany)
 [Roboterartige Kugeln aus Froschzellen gezüchtet](https://www.spektrum.de/news/xenobots-roboterartige-kugeln-aus-froschzellen-gezuechtet/1854868)
 
 ## Bild der Wissenschaft (Germany)
 [Wuselnde Roboter aus Stammzellen](https://www.wissenschaft.de/technik-digitales/wuselnde-roboter-aus-stammzellen/)
-
-## La Razón (Spain)
-[Robots celulares que se regeneran a sí mismos: Biobots 2.0](https://www.larazon.es/ciencia/20210404/3pc5uqnf2fajzbzcac7dre4ewm.html)
-
-## Telemadrid (Spain)
-[Xenobots, un paso adelante en la vida artificial](https://www.telemadrid.es/programas/madrid-directo-om/Xenobots-paso-adelante-vida-artificial-9-2332056801--20210414070000.html)
-
-## Le blob, l’extra-média (France)
-[Xénobots : machines vivantes à notre service ?](https://leblob.fr/videos/xenobots-machines-vivantes-notre-service)
 
 ## CNN Greece
 [Xenobot 2.0: Αμερικανοί ερευνητές δημιούργησαν την επόμενη πιο εξελιγμένη γενιά ζωντανών ρομπότ](https://www.cnn.gr/tech/story/260561/xenobot-2-0-amerikanoi-ereynites-dimioyrgisan-tin-epomeni-pio-exeligmeni-genia-zontanon-rompot)
@@ -91,7 +89,12 @@ reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xeno
 ## Skai (Greece)
 [enobot 2.0: Η πιο εξελιγμένη γενιά «ζωντανών ρομπότ» που δημιούργησαν ερευνητές](https://www.skai.gr/news/technology/xenobot-20-i-pio-ekseligmeni-genia-zontanon-rompot-pou-dimiourgisan-ereynites)
 
-## ...
+## La Razón (Spain)
+[Robots celulares que se regeneran a sí mismos: Biobots 2.0](https://www.larazon.es/ciencia/20210404/3pc5uqnf2fajzbzcac7dre4ewm.html)
 
+## Telemadrid (Spain)
+[Xenobots, un paso adelante en la vida artificial](https://www.telemadrid.es/programas/madrid-directo-om/Xenobots-paso-adelante-vida-artificial-9-2332056801--20210414070000.html)
+
+## ...
 
 
