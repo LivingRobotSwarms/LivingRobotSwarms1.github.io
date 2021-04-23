@@ -3,7 +3,7 @@
 
 #### **2. Living Robot Swarms:**
 
-Blackiston, D.\*, Leder E.\*, Kriegman, S., Garnier, S., Bongard, J., Levin, M. (in press) <br>
+Blackiston, D.\*, Lerder E.\*, Kriegman, S., Garnier, S., Bongard, J., Levin, M. (2021) <br>
 "[A Cellular Platform for the Development of Synthetic Living Machines](https://robotics.sciencemag.org/content/6/52/eabf1571)", <br>
 _Science Robotics_, vol. 6 no. 52, pp. eabf1571.  <br>
 \*Co-first authors. <br>
