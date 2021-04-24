@@ -7,7 +7,7 @@ Blackiston, D.\*, Lederer E.\*, Kriegman, S., Garnier, S., Bongard, J., Levin, M
 "[A Cellular Platform for the Development of Synthetic Living Machines](https://robotics.sciencemag.org/content/6/52/eabf1571)", <br>
 _Science Robotics_, vol. 6 no. 52, pp. eabf1571.  <br>
 \*Co-first authors. <br>
-If you do not have access to Science Robotics, you can download the pdf [here](https://livingrobotswarms.github.io/img/xenobots2.pdf).
+You can download the pdf [here](https://livingrobotswarms.github.io/img/xenobots2.pdf).
 <br>
 
 
