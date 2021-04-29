@@ -23,16 +23,16 @@
 ## New Scientist
 [Living robots made from frog skin cells can sense their environment](https://www.newscientist.com/article/2273516-living-robots-made-from-frog-skin-cells-can-sense-their-environment/)
 
-## Quanta Magizine / Wired
+## Science News
+[Frog skin cells turned themselves into living machines](https://www.sciencenews.org/article/frog-skin-cells-self-made-living-machines-xenobots)
+
+## Quanta Magazine / Wired
 [Cells Form Into 'Xenobots' on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
 <br>
 reprinted in [**Wired**](https://www.wired.com/story/cells-form-into-living-xenobots-on-their-own/)
 
 ## The Independent
 [Scientists create new 'living robots' that have memory and assemble themselves](https://www.independent.co.uk/life-style/gadgets-and-tech/scientists-create-new-living-robots-b1825188.html)
-
-## Science News
-[Frog skin cells turned themselves into living machines](https://www.sciencenews.org/article/frog-skin-cells-self-made-living-machines-xenobots)
 
 ## Axios
 [Frog cells can form a self-powered living robot](https://www.axios.com/frog-cells-living-robot-3f7418de-4e12-4b14-b02e-0540ebbf066c.html)
