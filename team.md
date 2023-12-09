@@ -3,7 +3,9 @@
 
 <img src="https://cdorgs.github.io/img/doug.jpg" width="25%">
 
-**Douglas Blackiston** is a Senior Scientist in the Allen Discovery Center at Tufts University where his [research program](https://douglas-blackiston.weebly.com/) has the overarching goal of understanding developmental plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
+**Douglas Blackiston** 
+is a Principal Scientist in the Allen Discovery Center at Tufts University and Visiting Scholar in the Wyss Institute at Harvard University.
+His [research program](https://douglas-blackiston.weebly.com/) has the overarching goal of understanding developmental plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
 <img src="https://livingrobotswarms.github.io/img/emma.jpg" width="25%">
@@ -14,7 +16,8 @@
 
 <img src="https://cdorgs.github.io/img/sam.jpg" width="25%">
 
-**Sam Kriegman** is a Postdoctoral Associate at the University of Vermont. 
+**Sam Kriegman** 
+is a Postdoctoral Associate at the University of Vermont. 
 His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
 and applies the underlying mechanisms of self-organization and natural selection 
 to the creation of novel autonomous machines.
